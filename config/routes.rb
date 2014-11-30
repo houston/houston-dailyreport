@@ -1,2 +1,2 @@
-Houston::Dailyreport::Engine.routes.draw do
+Houston::DailyReport::Engine.routes.draw do
 end

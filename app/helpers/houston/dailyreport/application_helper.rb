@@ -1,4 +1,4 @@
-module Houston::Dailyreport
+module Houston::DailyReport
   module ApplicationHelper
   end
 end

@@ -1,5 +1,5 @@
 module Houston
-  module Dailyreport
+  module DailyReport
     VERSION = "0.0.1"
   end
 end

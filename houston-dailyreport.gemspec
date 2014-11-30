@@ -1,17 +1,17 @@
 $:.push File.expand_path("../lib", __FILE__)
 
 # Maintain your gem's version:
-require "houston/dailyreport/version"
+require "houston/daily_report/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "houston-dailyreport"
-  s.version     = Houston::Dailyreport::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Houston Dailyreport."
-  s.description = "TODO: Description of Houston Dailyreport."
+  s.version     = Houston::DailyReport::VERSION
+  s.authors     = ["Bob Lail"]
+  s.email       = ["bob.lailfamily@gmail.com"]
+  s.homepage    = "https://github.com/houstonmc/houston-dailyreport"
+  s.summary     = "A module for Houston for sending daily reports."
+  s.description = "A module for Houston for sending daily reports."
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
   s.test_files = Dir["test/**/*"]

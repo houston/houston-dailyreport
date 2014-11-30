@@ -1,6 +1,6 @@
-# Houston::Dailyreport
+# Houston::DailyReport
 
-TODO: Summary of Houston Dailyreport.
+TODO: Summary of Houston DailyReport.
 
 
 ## Installation

@@ -1,7 +1,7 @@
 module Houston
-  module Dailyreport
+  module DailyReport
     class Engine < ::Rails::Engine
-      isolate_namespace Houston::Dailyreport
+      isolate_namespace Houston::DailyReport
       
       # Enabling assets precompiling under rails 3.1
       if Rails.version >= '3.1'
